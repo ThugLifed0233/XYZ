@@ -1,10 +1,19 @@
 DASHBOARD
+
 COURSES
+
 PAGES
+
 STUDENTS
+
 CHECKLISTS
+
 PRICING / BILLING
+
 ACADEMY
-ACCOUNT
+
+ACCOUNT 
+
+
 
 Choosing a profitable course topic
