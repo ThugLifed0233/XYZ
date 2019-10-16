@@ -1,10 +1,10 @@
 DASHBOARD
 
-COURSES
+COURSE(S)
 
-PAGES
+PAGE(S)
 
-STUDENTS
+STUDENTs
 
 CHECKLISTS
 
@@ -16,4 +16,4 @@ ACCOUNT
 
 
 
-Choosing a profitable course topic
+Choosing a profitable course topics
