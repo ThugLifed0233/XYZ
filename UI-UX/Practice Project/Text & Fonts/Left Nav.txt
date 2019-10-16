@@ -2,7 +2,7 @@ DASHBOARD
 
 COURSE(S)
 
-PAGE(S)
+PAGE(s)
 
 STUDENTs
 
